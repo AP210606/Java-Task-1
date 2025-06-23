@@ -1,11 +1,11 @@
 # Java-Task-1
 
-#Java Console Calculator
+# Java Console Calculator
   A simple command-line calculator built with Java, demonstrating basic console I/O, method creation, and loop control for multiple operations.
 
-##Features
+## Features
   Performs basic arithmetic operations:
-    Addition (+)
-    Subtraction (-)
-    Multiplication (*)
-    Division (/)
+  - Addition (+)
+  - Subtraction (-)
+  - Multiplication (*)
+  - Division (/)
